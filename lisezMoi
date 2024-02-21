@@ -1,0 +1,5 @@
+
+Les fichiers Audio sont présents dans le répertoire : /media/0000
+
+Lors de la copie de fichier audio sur la XBOX360, la console transforme les fichiers en format propre à la XBOX et non audible depuis un lecteur audio traditionnel
+pour le transformer en fichier audible il suffira alors de retirer le header creer par la XBOX
